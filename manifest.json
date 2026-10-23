@@ -1,4 +1,12 @@
 {
  "base": 2,
- "patch": 0
+ "patch": 1,
+ "pck_url": {
+  "macos": "https://raw.githubusercontent.com/JWO58554/Data/main/patch_2_1_macos.pck",
+  "windows": "https://raw.githubusercontent.com/JWO58554/Data/main/patch_2_1_windows.pck"
+ },
+ "sha256": {
+  "macos": "9b7e7ee133de38fd57ca25ca2f4a2ba16cac0945e92dbe34df24ab68b0f7138e",
+  "windows": "8026c4ef239c39e6764c18caecc3f60d58d58b1395a78a8c5f4bda73ca6c9132"
+ }
 }
